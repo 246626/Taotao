@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+D:\Java\淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1834964582.index
+\taotao-rest\src\main\java
+D:\Java\淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3666245083.index
+\taotao-protal\src\main\java
+D:\Java\淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\721488642.index
+\taotao-manager-web\src\main\java
+D:\Java\淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1083750738.index
+\taotao-manager-web\src\main\java
+D:\Java\淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2983717685.index
+\taotao-protal\src\main\java
+D:\Java\淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1497872763.index
+\taotao-sso\src\main\java
+D:\Java\淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2343393318.index
+\taotao-protal\src\main\java
+D:\Java\淘淘商城\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2721289618.index
+\taotao-manager-web\src\main\java

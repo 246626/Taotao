@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;taotao-parent/src/pom.xml&apos;" deleteContents="false" description="Delete resource &apos;taotao-parent/src/pom.xml&apos;" element1="/taotao-parent/src/pom.xml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1577708584656"/>&#x0A;<refactoring comment="Delete resource &apos;taotao-laji&apos;" deleteContents="false" description="Delete resource &apos;taotao-laji&apos;" element1="/taotao-laji" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1577759273747"/>
+</session>

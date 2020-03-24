@@ -1,0 +1,36 @@
+/**
+ * 
+ */
+package com.taotao.rest.controller;
+
+import java.util.List;
+
+import javax.annotation.Resource;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.taotao.common.pojo.TaotaoResult;
+import com.taotao.pojo.TbContent;
+import com.taotao.rest.service.ContentService;
+
+/**
+ * @author 追梦人
+ *内容管理
+ */
+@Controller
+@RequestMapping("/content")
+public class ContentController {
+	@Resource
+	private ContentService contentService;
+	@RequestMapping("/list/{contentCategoryId}")
+	public TaotaoResult getContentList(@PathVariable("contentCategoryId")long contentCategoryId) {
+		List<TbContent> list = contentService.getContentListByCatId(contentCategoryId);
+		return TaotaoResult.ok(list);
+	}
+	
+	
+	
+	
+}
